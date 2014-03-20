@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In Pursuit of Pursuit</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>reddit / redditgifts front-end dev</description>
+    <pubDate>Tue, 18 Mar 2014 18:00:00 -0600</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Being Interviewed for Fluent Conf</title>
+      <link>http://localhost:8080/articles/fluent-interview/</link>
+      <pubDate>Tue, 18 Mar 2014 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/fluent-interview/</guid>
+      <author></author>
+      <description>&lt;p&gt;I had the good fortune of being able to speak at Fluent Conf 2014. While that video is forthcoming, I also had the unique opportunity to be interviewed by Brian McDonald about the JavaScript framework wars. I felt like the interview went really well; it was just a pleasant conversation I had with Brian that happen to be filmed. If you’d like to see, I’ve embedded it below.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+  &lt;iframe src=&quot;//www.youtube-nocookie.com/embed/9FumQXqQjO0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "In Pursuit of Pursuit",
+    "owner": "Brian Holt",
+    "description": "reddit / redditgifts front-end dev"
+  },
+  "output": "../",
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}
