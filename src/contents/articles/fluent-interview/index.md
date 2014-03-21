@@ -1,7 +1,7 @@
 ---
-title: "Being Interviewed for Fluent Conf"
+title: "Being Interviewed for Fluent Conf 2014"
 author: Brian Holt
-date: 2014-03-19
+date: 2014-03-13
 template: article.jade
 ---
 
