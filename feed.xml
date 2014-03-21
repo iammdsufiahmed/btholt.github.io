@@ -5,19 +5,55 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
     <description>reddit / redditgifts front-end dev</description>
-    <pubDate>Tue, 18 Mar 2014 18:00:00 -0600</pubDate>
+    <pubDate>Wed, 12 Mar 2014 18:00:00 -0600</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Being Interviewed for Fluent Conf</title>
+      <title>Being Interviewed for Fluent Conf 2014</title>
       <link>http://localhost:8080/articles/fluent-interview/</link>
-      <pubDate>Tue, 18 Mar 2014 18:00:00 -0600</pubDate>
+      <pubDate>Wed, 12 Mar 2014 18:00:00 -0600</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/fluent-interview/</guid>
       <author></author>
       <description>&lt;p&gt;I had the good fortune of being able to speak at Fluent Conf 2014. While that video is forthcoming, I also had the unique opportunity to be interviewed by Brian McDonald about the JavaScript framework wars. I felt like the interview went really well; it was just a pleasant conversation I had with Brian that happen to be filmed. If you’d like to see, I’ve embedded it below.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;videoWrapper&quot;&gt;
   &lt;iframe src=&quot;//www.youtube-nocookie.com/embed/9FumQXqQjO0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Ski PHP 2014: Let Grunt Tell You Your Code Sucks</title>
+      <link>http://localhost:8080/articles/ski-php/</link>
+      <pubDate>Thu, 16 Jan 2014 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/ski-php/</guid>
+      <author></author>
+      <description>&lt;p&gt;This was back in January (2014) when I had the good opportunity to be a co-organizer for the Ski PHP conference in Salt Lake City, UT. In addition to helping organize, I also had the opportunity to speak about Grunt.js with a back-end flavor to it. It was a fun 50 minute talk to give. Check it out below.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+  &lt;iframe src=&quot;//www.youtube-nocookie.com/embed/kQ-83im68aQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Null to Node 2013 Lesson 4</title>
+      <link>http://localhost:8080/articles/null-to-node-2013/</link>
+      <pubDate>Tue, 18 Jun 2013 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/null-to-node-2013/</guid>
+      <author></author>
+      <description>&lt;p&gt;Back in 2013, a good friend of mine, &lt;a href=&quot;https://twitter.com/thom801&quot;&gt;Thom Allen&lt;/a&gt;, and I decided to teach a class called &lt;a href=&quot;http://www.nulltonode.com/&quot;&gt;Null to Node&lt;/a&gt; so that people could learn to code. It was a mild success but it was great for me because I had the the opportunity to speak for several hours to large-ish groups of people. I only took one screencast of those lessons but I’m happy to share it here below. By the way, it’s pretty long and you can’t always here me. I wasn’t wearing a microphone and you can only hear me when I’m next to the computer. Sorry!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+  &lt;iframe src=&quot;//www.youtube-nocookie.com/embed/CKYon5Nc7fs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fluent Conf 2013: Lightning Talk</title>
+      <link>http://localhost:8080/articles/fluent-2013-lightning/</link>
+      <pubDate>Mon, 27 May 2013 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/fluent-2013-lightning/</guid>
+      <author></author>
+      <description>&lt;p&gt;This was in May of 2013 where I gave my first real talk at a conference. It was an Ignite talk. Ignite, for those who don’t know, is a format where you have 20 slides that rotate automatically every 20 seconds. It’s both a fun and a challenging way to give a presentation. I practiced a lot but that didn’t stop me from being incredibly nervous. It was still a great experience. Check it out below.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+  &lt;iframe src=&quot;//www.youtube-nocookie.com/embed/vVQd8U3kV00?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
